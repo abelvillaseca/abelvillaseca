@@ -9,9 +9,9 @@
 
 - ✌🏼 I'm currently a full-stack front-end developer. **My favorite frameworks are Astro and Angular**.
 
-- 👯 I’m looking to collaborate on **projects that make the developer community bigger**
+- 🧔🏽‍♂️ I’m looking to collaborate on **projects that make the developer community bigger**
 
-- 👨‍💻 All of my projects are available at [portfolio.abelvillaseca.com](https://portfolio.abelvillaseca.com)
+- 👨🏽‍💻 All of my projects are available at [portfolio.abelvillaseca.com](https://portfolio.abelvillaseca.com)
 
 - 📝 I regularly write articles on [https://abelvillaseca.com](https://abelvillaseca.com)
 

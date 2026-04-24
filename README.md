@@ -18,8 +18,8 @@
 <!-- Badges de ubicación, experiencia y foco -->
 <p>
   <img src="https://img.shields.io/badge/Perú-🇵🇪-red?style=flat-square" alt="Perú" />
-  <img src="https://img.shields.io/badge/Experiencia-9%20años-blue?style=flat-square" alt="9 años" />
-  <img src="https://img.shields.io/badge/Enseñando-2%20años-green?style=flat-square" alt="2 años enseñando" />
+  <img src="https://img.shields.io/badge/Experiencia-9%20años-blue?style=flat-square" alt="12 años" />
+  <img src="https://img.shields.io/badge/Enseñando-2%20años-green?style=flat-square" alt="2 años y medio enseñando" />
 </p>
 
 </div>

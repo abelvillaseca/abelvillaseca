@@ -43,7 +43,7 @@
 <!-- ============================================ -->
 <!-- NÓMADA: Sección dedicada a tu producto       -->
 <!-- ============================================ -->
-## 🎓 Nómada — Bootcamp de Programación
+## 🎓 Nómada Bootcamp
 
 > **Formamos desarrolladores desde cero, con clases en vivo y mentoría real.**
 

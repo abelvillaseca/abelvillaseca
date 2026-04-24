@@ -97,16 +97,16 @@ Nómada es mi proyecto más importante: un bootcamp online peruano donde enseño
 <div align="center">
 
 <!-- Stats generales: commits, PRs, issues, contribuciones -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abelvillasecaco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abelvillaseca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <!-- Lenguajes más usados en tus repos -->
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelvillasecaco&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelvillaseca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <!-- Racha de commits (streak) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelvillasecaco&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelvillaseca&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

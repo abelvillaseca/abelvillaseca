@@ -9,7 +9,7 @@
 
 # Hola, soy Abel Villaseca 👋
 
-### Full Stack Developer · Fundador de [Nómada](https://nomadabootcamp.com) · Docente
+### Full Stack Developer · Fundador de [Nómada Bootcamp](https://nomadabootcamp.com) · Docente
 
 <p>
   <em>Construyo software, formo programadores y comparto lo que aprendo en el camino.</em>

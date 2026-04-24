@@ -32,7 +32,7 @@
 ## 🧑🏽‍💻 Sobre mí
 
 - 🚀 Full Stack Developer con **12 años de experiencia** construyendo productos web.
-- 🎓 Fundador y docente de **[Nómada](https://nomadabootcamp.com)**, bootcamp online de programación.
+- 🎓 Fundador y docente de **[Nómada Bootcamp](https://nomadabootcamp.com)**, bootcamp online de programación.
 - 🛠️ Mi stack del día a día: **Angular, Node.js, Astro, TypeScript y Firebase**.
 - ✍️ Escribo artículos técnicos en [abelvillaseca.com](https://abelvillaseca.com).
 - 🎥 Comparto tutoriales y reflexiones en [YouTube](https://www.youtube.com/c/abelvillasecadev).
